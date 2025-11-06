@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Linguistics (Quantitative Linguistics & Dependency Linguistics), Zhejiang University, 2019-2023
+  * Supervisor: Prof. Haitao Liu
+* M.A. in Linguistics (Linguistic Typology), Shanghai International Studies University, 2016-2019
+* Minor in French Language, Tongji University, 2014-2015
+* Exchange, National University of Singapore, 2013-2014
+* B.E. in Civil Engineering, Tongji University, 2011-2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since Fall 2023: Postdoctoral Researcher
+  * Tongji University
+  * Duties includes: Quantitative Textual Measure Design, Identification of Linguistic Biomarkers of Cognitive Impairment
+  * Supervisor: Prof. Lihe Huang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May-July 2023: Research Assistant
+  * Westlake University
+  * Duties included: Machine-Human Languages Discrimination
+  * Supervisor: Prof. Yue Zhang
 
 * Summer 2015: Research Assistant
   * GitHub University
@@ -34,7 +37,7 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Python
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
