@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "(Theo) Tsy Yih / Site Title"
+title                    : "(Theo) Tsy Yih, PhD"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://yihtsy.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://ageing.tongji.edu.cn/__local/D/76/AB/D415F1809C8311CC873678173C4_D31026DE_DA69.jpg"
   name             : "(Theo) Tsy Yih"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc at Tongji University"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1kHpEtcAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-2401-8486"
