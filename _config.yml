@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "(Theo) Tsy Yih"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc at Tongji University"
+  location         : "Liangzhu"
+  employer         : "Tongji University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yihtsy@outlook.com" 
 
   # Academic websites
   academia         : # URL
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2401-8486"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=tsy+yih"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Yihtsy"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
