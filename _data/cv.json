@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Zhejiang University",
+      "area": "Ph.D in Linguistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2019",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Shanghai International Studies University",
+      "area": "M.A. in Linguistics",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2016",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Tongji University",
+      "area": "B.S. in Civil Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2011",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
