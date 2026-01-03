@@ -3,7 +3,10 @@ title: "Yih et al. 2025 Decomposing dependency analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/Yih 叶子 & Liu 刘海涛 2025 Decomposing dependency analysis Revisiting the relation between annotation scheme and structure-based textual measures [J]
-excerpt: 'Corrigendum: Typo in Table 1. The UPOS of the first token <i>I</i> should be PRON rather than NOUN.'
+excerpt: |
+  Corrigendum:
+  1. The first two words of the main text should be "Texts occupy" ratheer than "Texts occupies".
+  2. Typo in Table 1. The UPOS of the first token "I" should be PRON rather than NOUN.'
 date: 2025-01-27
 venue: 'Digital Scholarship in the Humanities 40'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
