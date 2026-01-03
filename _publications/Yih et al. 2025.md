@@ -3,7 +3,7 @@ title: "Yih et al. 2025 Identifying novel linguistic biomarkers of MCI"
 collection: publications
 category: manuscripts
 permalink: /publication/yih-yang-yang-liu-huang-2025
-# excerpt: '**Highlights: MDD was shown to be the most highly discriminative feature between MCI and CN among the eleven syntactic measures provided by QuanSyn.**'
+excerpt: '**Highlights: MDD was shown to be the most highly discriminative feature between MCI and CN among the eleven syntactic measures provided by QuanSyn.**'
 date: 2025-10-16
 venue: 'Clinical Linguistics & Phonetics'
 #slidesurl: 'https://yihtsy.github.io/files/slides2.pdf'
