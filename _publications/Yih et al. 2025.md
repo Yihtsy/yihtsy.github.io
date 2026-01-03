@@ -7,7 +7,7 @@ excerpt: 'Corrigendum: Typo in Table 1. The UPOS of the first token <i>I</i> sho
 date: 2025-01-27
 venue: 'Digital Scholarship in the Humanities 40'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://yihtsy.github.io/files/Yih 叶子 & Liu 刘海涛 2025 Decomposing dependency analysis Revisiting the relation between annotation scheme and structure-based textual measures [J].pdf'
+paperurl: 'https://yihtsy.github.io/files/yih-liu-2025-decomposing-dependency-analysis.pdf'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: '<strong>Yih, T.</strong>, & Liu, H. (2025). Decomposing dependency analysis: Revisiting the relation between annotation scheme and structure-based textual measures. <i>Digital Scholarship in the Humanities</i>, <i>40</i>(1), 400-418.'
 ---
