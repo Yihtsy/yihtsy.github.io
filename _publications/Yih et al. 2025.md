@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Yih et al. 2025 Decomposing dependency analysis"
 collection: publications
 category: manuscripts
 permalink: /publication/Yih 叶子 & Liu 刘海涛 2025 Decomposing dependency analysis Revisiting the relation between annotation scheme and structure-based textual measures [J]
