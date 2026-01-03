@@ -7,7 +7,7 @@ permalink: /publication/yih-yang-yang-liu-huang-2025
 date: 2025-10-16
 venue: 'Clinical Linguistics & Phonetics'
 #slidesurl: 'https://yihtsy.github.io/files/slides2.pdf'
-paperurl: 'https://yihtsy.github.io/files/paper2.pdf'
+paperurl: 'https://yihtsy.github.io/files/yih-yang-yang-liu-huang-2026.pdf'
 citation: 'Yih, T., Yang, Y., Yang, M., Liu, H., & Huang, L. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. <i>Clinical Linguistics & Phonetics</i>. Online.'
 ---
 
