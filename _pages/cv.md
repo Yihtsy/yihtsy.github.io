@@ -29,20 +29,16 @@ Work experience
   * Westlake University
   * Duties included: Machine-Human Languages Discrimination
   * Supervisor: Prof. Yue Zhang
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
 * Python
-* Skill 2
+* Altmann Fitter
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* R
+* VBA
 
 Publications
 ======
@@ -64,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Anonymous Reviewer for Journal of World Linguistics, Clinical Linguistics and Phonetics, Digital Scholarship in the Humanities
