@@ -16,7 +16,7 @@ author_profile: true
 
 5. **叶子**. (2024). 试论语义不变型词性转换. 《常熟理工学院学报》第6期, 42–52.（2024年度优秀论文）
 
-6. Huang, Lihe, **叶子***. (2024). 基于深度学习的老年认知障碍与语言特征研究. 《外语与外语教学》第4期, 81–90.（CSSCI，通讯作者）https://doi.org/10.13458/j.cnki.flatt.005047  
+6. 黄立鹤, **叶子***. (2024). 基于深度学习的老年认知障碍与语言特征研究. 《外语与外语教学》第4期, 81–90.（CSSCI，通讯作者）https://doi.org/10.13458/j.cnki.flatt.005047  
 
 7. **Yih, Tsy**, Liu, Haitao. (2023). The meaning distributions on different levels of granularity. *Glottometrics*, 54, 13–38.（ESCI）https://doi.org/10.53482/2023_54_405  
 
