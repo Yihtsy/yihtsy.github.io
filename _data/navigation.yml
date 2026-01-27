@@ -28,6 +28,9 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
+
+  - title: "QAT"
+  url: /qat/
+  
 #  - title: "Guide"
 #    url: /markdown/
