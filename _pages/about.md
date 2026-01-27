@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-**(Theo) Tsy Yih (叶子 / Zi Ye)** holds a Ph.D. from Zhejiang University and is currently a postdoctoral researcher at the [Center for Aging, Language, and Care Studies](https://ageing.tongji.edu.cn/), [School of Foreign Languages](https://sfs.tongji.edu.cn/), Tongji University.
+**(Theo) Tsy Yih (叶子 / Zi Ye)** holds a Ph.D. in Linguistics from Zhejiang University and is currently a postdoctoral researcher at the [Center for Aging, Language, and Care Studies](https://ageing.tongji.edu.cn/), [School of Foreign Languages](https://sfs.tongji.edu.cn/), Tongji University.
 
 His research interests lie in **quantitative linguistics, gerontolinguistics, and natural language processing**, with a particular focus on the **measurement problem in linguistics** and the development of **textual quantitative measures and linguistic biomarkers** for cognitive impairment screening.
 
@@ -30,9 +30,9 @@ His research interests lie in **quantitative linguistics, gerontolinguistics, an
 
 He has published **over 20 papers** in leading domestic and international journals, including:
 
-*Aphasiology, Clinical Linguistics & Phonetics, Natural Language Engineering, System, Digital Scholarship in the Humanities, Journal of Second Language Writing, Review of Cognitive Linguistics, Canadian Journal of Linguistics, Glottometrics*, as well as major Chinese journals such as *Foreign Language Teaching and Research*, *Foreign Language Education*, *Foreign Languages and Their Teaching*, and *Foreign Language Journal*.
+*Aphasiology, Clinical Linguistics & Phonetics, Natural Language Engineering, System, Digital Scholarship in the Humanities, Journal of Second Language Writing, Review of Cognitive Linguistics, Canadian Journal of Linguistics, Glottometrics*, as well as major Chinese journals such as *Foreign Language Teaching and Research* （外语教学与研究）, *Foreign Languages and Their Teaching* （外语与外语教学）, and *Foreign Language Journal* （外语学刊）.
 
-He has also published articles in newspapers such as *Wenhui Daily* and Language and Writing Weekly 《语言文字周报》. One sole-authored paper was reprinted in *Renmin University Reprints: Linguistics and Philology* （人大复印）.
+He has also published articles in newspapers such as *Wenhui Daily 《文汇报》* and Language and Writing Weekly 《语言文字周报》. One sole-authored paper was reprinted in *Renmin University Reprints: Linguistics and Philology* （人大复印）.
 
 ---
 
@@ -47,8 +47,8 @@ In recent years, he has participated in several **national-level research projec
 
 He is the principal investigator of:
 
-- Special Grant of the China Postdoctoral Science Foundation  
-- General Grant of the China Postdoctoral Science Foundation  
+- Special Grant of the China Postdoctoral Science Foundation (￥150,000)
+- General Grant of the China Postdoctoral Science Foundation (￥50,000)
 
 He has also participated in:
 
@@ -68,7 +68,7 @@ He has also participated in:
 
 ## Personal Interests
 
-I am a big fan of **JJ Lin (Wayne)** and **Chengdu AG (All Gamers)**, a professional team of *Honor of Kings*, especially the player **AG.Yinuo (一诺)**.
+I am a big fan of **JJ Lin (Wayne) 林俊杰** and **Chengdu AG (All Gamers) 成都AG超玩会**, a professional team of *Honor of Kings*, especially the player **AG.Yinuo (一诺)**.
 
 The package **Asymgram (AG)** that I designed was named after and in honor of Chengdu AG.
 
