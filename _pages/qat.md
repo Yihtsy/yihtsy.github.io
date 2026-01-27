@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "QAT"
 permalink: /qat/
 author_profile: true
