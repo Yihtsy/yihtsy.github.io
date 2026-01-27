@@ -1,7 +1,9 @@
 ---
+layout: single
 title: "QAT"
 permalink: /qat/
 author_profile: true
+
 ---
 
 # Quanter All in Texts (QAT)
