@@ -64,6 +64,8 @@ He has also participated in:
 - National Scholarship for Graduate Students  
 - Excellent Doctoral Dissertation Award  
 
+<!--
+
 ---
 
 ## Personal Interests
@@ -73,3 +75,4 @@ I am a big fan of **JJ Lin (Wayne) 林俊杰** and **Chengdu AG (All Gamers) 成
 The package **Asymgram (AG)** that I designed was named after and in honor of Chengdu AG.
 
 The whole world is a giant AG.
+-->
