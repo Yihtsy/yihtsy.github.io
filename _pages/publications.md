@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Articles
 
-1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. 《辞书研究》, 已录用.（CSSCI扩展版）
+1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. 《辞书研究》, 已录用. (CSSCI扩展版)
  
 2. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2025.pdf)] (ESCI) 
 
@@ -24,15 +24,15 @@ author_profile: true
 
 9. **叶子**, 刘海涛\*. (2023). 配价研究前沿进展. 《外语学刊》第1期, 19–26. [https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003](https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003) (CSSCI扩展版)
 
-10. **叶子**. (2020). 经典语义地图模型求解的非唯一性问题. 《常熟理工学院学报》第1期. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011](https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011) (2020年度优秀论文；**人大复印《语言文字学》全文收录**)
+10. **叶子**. (2020). 经典语义地图模型求解的非唯一性问题. 《常熟理工学院学报》第1期, 69–78. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011](https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011) [[人大复印链接](https://www.rdfybk.com/qw/detail?id=816787)] (2020年度优秀论文; **人大复印《语言文字学》全文收录**)
 
-11. **叶子**. (2019). 分类词的统一描写框架. 《常熟理工学院学报》第1期. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012](https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012)
+11. **叶子**. (2019). 分类词的统一描写框架. 《常熟理工学院学报》第1期, 94–101. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012](https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012)
 
 ---
 
 ## Conference Papers
 
-1. Pan, Yilin, Gong, Ziteng, Wang, Sui, Tian, Zhuoran, Huang, Lihe, **Yih, Tsy**. (2026). An Unsupervised Alignment Feature Fusion System for Spoken Language-based Dementia Detection. *ICASSP2026*. （CCF-B类会议）
+1. Pan, Yilin, Gong, Ziteng, Wang, Sui, Tian, Zhuoran, Huang, Lihe, **Yih, Tsy**. (2026). An Unsupervised Alignment Feature Fusion System for Spoken Language-based Dementia Detection. *ICASSP2026*. (CCF-B类会议)
 
 2. **Yih, Tsy**, Dai, Zheyuan\*. (2025). Seven semantic classes of non-prototypical Chinese coordinators: A functional-typological perspective. *CLSW2024*. [https://doi.org/10.1007/978-981-96-3512-2_24](https://doi.org/10.1007/978-981-96-3512-2_24) (EI) 
 
@@ -71,7 +71,7 @@ doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) (**SSCI**)
 
 8. **叶子**, 刘海涛. (2021). 《语法网络：语言使用如何塑造语言结构》评介.《外语教学与研究》第2期, 308–312. [https://doi.org/10.19923/j.cnki.fltr.2021.02.013](https://doi.org/10.19923/j.cnki.fltr.2021.02.013) (**CSSCI, 中文权威**)
 
-9. **叶子**. (2018). 《语言类型学与句法描写》（第二卷：复合结构）述评. 《复句研究评论集》. 汕头大学出版社.
+9. **叶子**. (2018). 《语言类型学与句法描写》（第二卷：复合结构）述评. 《复句研究评论集》. 汕头大学出版社. [[豆瓣](https://book.douban.com/subject/30377034/)]
 
 ---
 
