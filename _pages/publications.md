@@ -16,15 +16,15 @@ author_profile: true
 
 5. **Yih, Tsy**, Liu, Haitao\*. (2025). Decomposing dependency analysis: Revisiting the relation between annotation scheme and structure-based textual measures. *Digital Scholarship in the Humanities*, 40(1), 400–418. [https://doi.org/10.1093/llc/fqaf003](https://doi.org/10.1093/llc/fqaf003) (**SSCI**)
 
-6. **叶子**. (2024). 试论语义不变型词性转换. 《常熟理工学院学报》第6期, 42–52. [https://10.16101/j.cnki.cn32-1749/z.2024.06.010](https://10.16101/j.cnki.cn32-1749/z.2024.06.010) (2024年度优秀论文)
+6. **叶子**. (2024). 试论语义不变型词性转换. 《常熟理工学院学报》第6期, 42–52. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010](https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010) (2024年度优秀论文)
 
 7. 黄立鹤, **叶子**\*. (2024). 基于深度学习的老年认知障碍与语言特征研究. 《外语与外语教学》第4期, 81–90. [https://doi.org/10.13458/j.cnki.flatt.005047](https://doi.org/10.13458/j.cnki.flatt.005047)  (**CSSCI**, 通讯作者)
 
 8. **Yih, Tsy**, Liu, Haitao. (2023). The meaning distributions on different levels of granularity. *Glottometrics*, 54, 13–38. [https://doi.org/10.53482/2023_54_405](https://doi.org/10.53482/2023_54_405) (ESCI)
 
-9. **叶子**, 刘海涛\*. (2023). 配价研究前沿进展. 《外语学刊》第1期, 19–26. [https://10.16263/j.cnki.23-1071/h.2023.01.003](https://10.16263/j.cnki.23-1071/h.2023.01.003) (CSSCI扩展版)
+9. **叶子**, 刘海涛\*. (2023). 配价研究前沿进展. 《外语学刊》第1期, 19–26. [https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003](https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003) (CSSCI扩展版)
 
-10. **叶子**. (2020). 经典语义地图模型求解的非唯一性问题. 《常熟理工学院学报》第1期. [https://10.16101/j.cnki.cn32-1749/z.2020.06.011](https://10.16101/j.cnki.cn32-1749/z.2020.06.011) (2020年度优秀论文；**人大复印《语言文字学》全文收录**)
+10. **叶子**. (2020). 经典语义地图模型求解的非唯一性问题. 《常熟理工学院学报》第1期. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011](https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011) (2020年度优秀论文；**人大复印《语言文字学》全文收录**)
 
 11. **叶子**. (2019). 分类词的统一描写框架. 《常熟理工学院学报》第1期. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012](https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012)
 
