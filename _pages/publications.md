@@ -8,7 +8,7 @@ author_profile: true
 
 1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. 《辞书研究》, 已录用.（CSSCI扩展版）
  
-2. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426)  (ESCI) [[PDF](https://github.com/Yihtsy/yihtsy.github.io/blob/master/files/yang-huang-yih-2025.pdf)]
+2. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426)  (ESCI) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2025.pdf)]
 
 3. **Yih, Tsy**, Yang, Yiran, Yang, Mu, Liu, Haitao, Huang, Lihe\*. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. *Clinical Linguistics & Phonetics* (SSCI). [https://doi.org/10.1080/02699206.2025.2571660](https://doi.org/10.1080/02699206.2025.2571660)
 
