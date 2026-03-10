@@ -54,21 +54,21 @@ author_profile: true
 
 ## Book Reviews
 
-1. Ding, Ying, **Yih, Tsy**\*. (2026). Rethinking writing education in the age of generative AI. *Journal of Second Language Writing*, 71.（SSCI Q1，通讯作者）
+1. Ding, Ying, **Yih, Tsy**\*. (2026). Rethinking writing education in the age of generative AI. *Journal of Second Language Writing*, 71, 101281. [https://doi.org/10.1016/j.jslw.2026.101281](https://doi.org/10.1016/j.jslw.2026.101281) (**SSCI Q1**, 通讯作者)
 
-2. Liu, Ziqi, **Yih, Tsy**\*. (2025). Linguistic approaches in English for academic purposes: Expanding the discourse. *Journal of Second Language Writing*, 67.（SSCI Q1，通讯作者）
+2. Liu, Ziqi, **Yih, Tsy**\*. (2025). Linguistic approaches in English for academic purposes: Expanding the discourse. *Journal of Second Language Writing*, 67, 101178. [https://doi.org/10.1016/j.jslw.2025.101178](https://doi.org/10.1016/j.jslw.2025.101178) (**SSCI Q1**，通讯作者)
 
-3. Yan, Jianwei, **Yih, Tsy**\*. (2023). Ten studies in dependency syntax. *Canadian Journal of Linguistics*, 68(4), 622–627.（A&HCI，通讯作者）
+3. Yan, Jianwei, **Yih, Tsy**\*. (2023). Ten studies in dependency syntax. *Canadian Journal of Linguistics*, 68(4), 622–627. (A&HCI，通讯作者)
 
 4. Sun, Shuyi, **Yih, Tsy**\*. (2022). Corpus linguistics for English for academic purposes. *System*, 108.（SSCI Q1，通讯作者）
 
 5. Wang, Xuelin, **Yih, Tsy**\*. (2022). Understanding development and proficiency in writing: Quantitative corpus linguistic approaches. *Journal of Second Language Writing*, 56.（SSCI Q1，通讯作者）
 
-6. **Yih, Tsy**. (2021). Frequency in language: Memory, attention and learning. *Review of Cognitive Linguistics*, 19(2).（SSCI）
+6. **Yih, Tsy**. (2021). Frequency in language: Memory, attention and learning. *Review of Cognitive Linguistics*, 19(2). (SSCI)
 
-7. **Yih, Tsy**. (2021). Minimalist parsing. *Natural Language Engineering*, 27(4).（SSCI, SCIE, A&HCI）
+7. **Yih, Tsy**. (2021). Minimalist parsing. *Natural Language Engineering*, 27(4). (SSCI, SCIE, A&HCI)
 
-8. **叶子**, 刘海涛. (2021). 语法网络：语言使用如何塑造语言结构.《外语教学与研究》第2期.（CSSCI，中文权威）
+8. **叶子**, 刘海涛. (2021). 《语法网络：语言使用如何塑造语言结构》评介.《外语教学与研究》第2期, 308–312. [https://doi.org/10.19923/j.cnki.fltr.2021.02.013](https://doi.org/10.19923/j.cnki.fltr.2021.02.013) (**CSSCI, 中文权威**)
 
 9. **叶子**. (2018). 《语言类型学与句法描写》（第二卷：复合结构）述评. 《复句研究评论集》. 汕头大学出版社.
 
@@ -76,6 +76,6 @@ author_profile: true
 
 ## Newspaper Articles
 
-1. **叶子**, 黄立鹤. 自然语言处理助力老年认知健康智能筛查. 《语言文字周报》2024-11-10，第2版.
+1. **叶子**, 黄立鹤. 自然语言处理助力老年认知健康智能筛查. 《语言文字周报》2024-11-10，第2版. [[同济老龄中心转载](https://ageing.tongji.edu.cn/info/1047/2492.htm)]
 
 2. **叶子**. 语言学专业，是时候告别“前牛顿时代”了. 《文汇报》2017-12-08. [[文汇网](https://dzb.whb.cn/html/2017-12/08/content_618669.html)]
