@@ -6,9 +6,9 @@ author_profile: true
 
 ## Journal Articles
 
-1. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy***. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. （ESCI） https://doi.org/10.53482/2025_59_426
+1. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy***. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. （ESCI） [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426)
 
-2. **Yih, Tsy**, Yang, Yiran, Yang, Mu, Liu, Haitao, Huang, Lihe*. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. *Clinical Linguistics & Phonetics* (SSCI). https://doi.org/10.1080/02699206.2025.2571660  
+2. **Yih, Tsy**, Yang, Yiran, Yang, Mu, Liu, Haitao, Huang, Lihe*. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. *Clinical Linguistics & Phonetics* (SSCI). [https://doi.org/10.1080/02699206.2025.2571660](https://doi.org/10.1080/02699206.2025.2571660)
 
 3. **Yih, Tsy**, Yang, Hao, Huang, Lihe*, Yao, Quan. (2025). Identifying syntactic biomarkers of cognitive impairment in older adults by applying machine learning approaches across multiple speech tasks. *Aphasiology* (SSCI Q1). https://doi.org/10.1080/02687038.2025.2511217  
 
