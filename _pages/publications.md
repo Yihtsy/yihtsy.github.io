@@ -80,3 +80,9 @@ doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) (**SSCI**)
 1. **叶子**, 黄立鹤. 自然语言处理助力老年认知健康智能筛查. 《语言文字周报》2024-11-10，第2版. [[同济老龄中心转载](https://ageing.tongji.edu.cn/info/1047/2492.htm)]
 
 2. **叶子**. 语言学专业，是时候告别“前牛顿时代”了. 《文汇报》2017-12-08. [[文汇网](https://dzb.whb.cn/html/2017-12/08/content_618669.html)]
+
+---
+
+## WeChat Articles
+
+1. 叶子. 2016. “比较概念”与“描写范畴”. 《今日语言学》2016-11-16. [[中国社会科学院语言研究所公众号“今日语言学”刊发](https://mp.weixin.qq.com/s?__biz=MzIwODEyNTQ2OQ==&mid=2650356770&idx=1&sn=69da1108491946fc26e0285c6c8b5741&chksm=8eeed08525a88380682f1e96336f35c77e5e6f8931ace1a418e15cee89432630a50deaf6cce5&mpshare=1&scene=1&srcid=03109dJ8mKvTJ6EAXQ5lcVe8&sharer_shareinfo=e633dd038f6bfc26a80735160e9b4532&sharer_shareinfo_first=e633dd038f6bfc26a80735160e9b4532#rd)]
