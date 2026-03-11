@@ -33,13 +33,11 @@ Work experience
 Skills
 ======
 * Python
-* Altmann Fitter
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
 * R
 * VBA
+* Altmann Fitter
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -57,7 +55,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->
+
 Service and leadership
 ======
-* Anonymous Reviewer for Journal of World Linguistics, Clinical Linguistics and Phonetics, Digital Scholarship in the Humanities
+* Anonymous Reviewer for Journal of World Linguistics, Clinical Linguistics and Phonetics, Digital Scholarship in the Humanities, Chinese Lexical Semantics Workshop
