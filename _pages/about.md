@@ -17,12 +17,11 @@ His research interests lie in **quantitative linguistics, gerontolinguistics, an
 
 ## Research Areas
 
-- Gerontolinguistics  
-- Quantitative Linguistics  
-- Natural Language Processing  
-- Clinical Linguistics and Speech-Language Pathology  
-- Linguistic Biomarkers for Cognitive Impairment  
-- Textual and Syntactic Complexity Measures  
+- Quantitative Linguistics
+- Natural Language Processing
+- Gerontolinguistics, Clinical Linguistics and Speech-Language Pathology  
+  - Linguistic Biomarkers for Cognitive Impairment  
+  - Textual and Syntactic Complexity Measures  
 
 ---
 
@@ -30,7 +29,7 @@ His research interests lie in **quantitative linguistics, gerontolinguistics, an
 
 He has published **over 20 papers** in leading domestic and international journals, including:
 
-*Aphasiology, Clinical Linguistics & Phonetics, Natural Language Engineering, System, Digital Scholarship in the Humanities, Journal of Second Language Writing, Review of Cognitive Linguistics, Canadian Journal of Linguistics, Glottometrics*, as well as major Chinese journals such as *Foreign Language Teaching and Research* （外语教学与研究）, *Foreign Languages and Their Teaching* （外语与外语教学）, and *Foreign Language Journal* （外语学刊）.
+*Linguistics Vanguard, Aphasiology, Clinical Linguistics & Phonetics, Natural Language Engineering, System, Digital Scholarship in the Humanities, Journal of Second Language Writing, Review of Cognitive Linguistics, Canadian Journal of Linguistics, Glottometrics*, as well as major Chinese journals such as *Foreign Language Teaching and Research* （外语教学与研究）, *Foreign Languages and Their Teaching* （外语与外语教学）, and *Foreign Language Journal* （外语学刊）.
 
 He has also published articles in newspapers such as *Wenhui Daily 《文汇报》* and Language and Writing Weekly 《语言文字周报》. One sole-authored paper was reprinted in *Renmin University Reprints: Linguistics and Philology* （人大复印）.
 
