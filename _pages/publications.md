@@ -6,27 +6,29 @@ author_profile: true
 
 ## Journal Articles
 
+1. Yih, Tsy, Ding, Dian, Che, Yiran, Huang, Lihe\*. (accepted). Which mean dependency distance measure best reflects the cognitive abilities? Evidence from oral production of older adults with varying cognitive levels. *Linguistics Vanguard*. (**SSCI**)
+
 1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. 《辞书研究》, 已录用. (CSSCI扩展版)
  
-2. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2025.pdf)] (ESCI) 
+1. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2025.pdf)] (ESCI) 
 
-3. **Yih, Tsy**, Yang, Yiran, Yang, Mu, Liu, Haitao, Huang, Lihe\*. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. *Clinical Linguistics & Phonetics*. [https://doi.org/10.1080/02699206.2025.2571660](https://doi.org/10.1080/02699206.2025.2571660) (**SSCI**) [[微信公众号报道1](https://mp.weixin.qq.com/s?__biz=MzI3OTY4MTE2Mw==&mid=2247486278&idx=1&sn=462684ac22c1aa63ea7ee7f9b03bc632&chksm=ea544bbe8ee1a7f74cf592837f8258e96e98e2ec72b301a30293c91016248eb0afcd040861e2&mpshare=1&scene=1&srcid=0310Mhb8KSEy6VZWuuZsBvuS&sharer_shareinfo=fc093cacbac0fefeb3eb23f6d187a015&sharer_shareinfo_first=fc093cacbac0fefeb3eb23f6d187a015#rd)] [[微信公众号报道2](https://mp.weixin.qq.com/s?__biz=MzU4NDQ1NDgwMA==&mid=2247498488&idx=1&sn=9ba0bed9860ee43bed4cb754962ff693&chksm=fc81b4a551d93a7f789a56108e0127cc336a4976a04d3c742cd5ce7ddc2b26ed1bdedfd56a1c&mpshare=1&scene=1&srcid=0310jUZ4CihrHLiZIBhTksiB&sharer_shareinfo=e73656967965ff8e2744db916990df61&sharer_shareinfo_first=e73656967965ff8e2744db916990df61#rd)]
+1. **Yih, Tsy**, Yang, Yiran, Yang, Mu, Liu, Haitao, Huang, Lihe\*. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. *Clinical Linguistics & Phonetics*. [https://doi.org/10.1080/02699206.2025.2571660](https://doi.org/10.1080/02699206.2025.2571660) (**SSCI**) [[微信公众号报道1](https://mp.weixin.qq.com/s?__biz=MzI3OTY4MTE2Mw==&mid=2247486278&idx=1&sn=462684ac22c1aa63ea7ee7f9b03bc632&chksm=ea544bbe8ee1a7f74cf592837f8258e96e98e2ec72b301a30293c91016248eb0afcd040861e2&mpshare=1&scene=1&srcid=0310Mhb8KSEy6VZWuuZsBvuS&sharer_shareinfo=fc093cacbac0fefeb3eb23f6d187a015&sharer_shareinfo_first=fc093cacbac0fefeb3eb23f6d187a015#rd)] [[微信公众号报道2](https://mp.weixin.qq.com/s?__biz=MzU4NDQ1NDgwMA==&mid=2247498488&idx=1&sn=9ba0bed9860ee43bed4cb754962ff693&chksm=fc81b4a551d93a7f789a56108e0127cc336a4976a04d3c742cd5ce7ddc2b26ed1bdedfd56a1c&mpshare=1&scene=1&srcid=0310jUZ4CihrHLiZIBhTksiB&sharer_shareinfo=e73656967965ff8e2744db916990df61&sharer_shareinfo_first=e73656967965ff8e2744db916990df61#rd)]
 
-4. **Yih, Tsy**, Yang, Hao, Huang, Lihe\*, Yao, Quan. (2025). Identifying syntactic biomarkers of cognitive impairment in older adults by applying machine learning approaches across multiple speech tasks. *Aphasiology*. [https://doi.org/10.1080/02687038.2025.2511217](https://doi.org/10.1080/02687038.2025.2511217) (**SSCI Q1**)
+1. **Yih, Tsy**, Yang, Hao, Huang, Lihe\*, Yao, Quan. (2025). Identifying syntactic biomarkers of cognitive impairment in older adults by applying machine learning approaches across multiple speech tasks. *Aphasiology*. [https://doi.org/10.1080/02687038.2025.2511217](https://doi.org/10.1080/02687038.2025.2511217) (**SSCI Q1**)
 
-5. **Yih, Tsy**, Liu, Haitao\*. (2025). Decomposing dependency analysis: Revisiting the relation between annotation scheme and structure-based textual measures. *Digital Scholarship in the Humanities*, 40(1), 400–418. [https://doi.org/10.1093/llc/fqaf003](https://doi.org/10.1093/llc/fqaf003) (**SSCI**)
+1. **Yih, Tsy**, Liu, Haitao\*. (2025). Decomposing dependency analysis: Revisiting the relation between annotation scheme and structure-based textual measures. *Digital Scholarship in the Humanities*, 40(1), 400–418. [https://doi.org/10.1093/llc/fqaf003](https://doi.org/10.1093/llc/fqaf003) (**SSCI**)
 
-6. **叶子**. (2024). 试论语义不变型词性转换. 《常熟理工学院学报》第6期, 42–52. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010](https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010) (2024年度优秀论文)
+1. **叶子**. (2024). 试论语义不变型词性转换. 《常熟理工学院学报》第6期, 42–52. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010](https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010) (2024年度优秀论文)
 
-7. 黄立鹤, **叶子**\*. (2024). 基于深度学习的老年认知障碍与语言特征研究. 《外语与外语教学》第4期, 81–90. [https://doi.org/10.13458/j.cnki.flatt.005047](https://doi.org/10.13458/j.cnki.flatt.005047)  (**CSSCI**, 通讯作者)
+1. 黄立鹤, **叶子**\*. (2024). 基于深度学习的老年认知障碍与语言特征研究. 《外语与外语教学》第4期, 81–90. [https://doi.org/10.13458/j.cnki.flatt.005047](https://doi.org/10.13458/j.cnki.flatt.005047)  (**CSSCI**, 通讯作者)
 
-8. **Yih, Tsy**, Liu, Haitao. (2023). The meaning distributions on different levels of granularity. *Glottometrics*, 54, 13–38. [https://doi.org/10.53482/2023_54_405](https://doi.org/10.53482/2023_54_405) (ESCI)
+1. **Yih, Tsy**, Liu, Haitao. (2023). The meaning distributions on different levels of granularity. *Glottometrics*, 54, 13–38. [https://doi.org/10.53482/2023_54_405](https://doi.org/10.53482/2023_54_405) (ESCI)
 
-9. **叶子**, 刘海涛\*. (2023). 配价研究前沿进展. 《外语学刊》第1期, 19–26. [https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003](https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003) (CSSCI扩展版)
+1. **叶子**, 刘海涛\*. (2023). 配价研究前沿进展. 《外语学刊》第1期, 19–26. [https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003](https://doi.org/10.16263/j.cnki.23-1071/h.2023.01.003) (CSSCI扩展版)
 
-10. **叶子**. (2020). 经典语义地图模型求解的非唯一性问题. 《常熟理工学院学报》第1期, 69–78. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011](https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011) [[人大复印链接](https://www.rdfybk.com/qw/detail?id=816787)] (2020年度优秀论文; **人大复印《语言文字学》全文收录**)
+1. **叶子**. (2020). 经典语义地图模型求解的非唯一性问题. 《常熟理工学院学报》第1期, 69–78. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011](https://doi.org/10.16101/j.cnki.cn32-1749/z.2020.06.011) [[人大复印链接](https://www.rdfybk.com/qw/detail?id=816787)] (2020年度优秀论文; **人大复印《语言文字学》全文收录**)
 
-11. **叶子**. (2019). 分类词的统一描写框架. 《常熟理工学院学报》第1期, 94–101. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012](https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012)
+1. **叶子**. (2019). 分类词的统一描写框架. 《常熟理工学院学报》第1期, 94–101. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012](https://doi.org/10.16101/j.cnki.cn32-1749/z.2019.01.012)
 
 ---
 
