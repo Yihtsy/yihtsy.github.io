@@ -79,7 +79,7 @@ doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) (**SSCI**)
 
 ## Newspaper Articles
 
-1. **叶子**, 黄立鹤. 自然语言处理助力老年认知健康智能筛查. 《语言文字周报》2024-11-10，第2版. [[同济老龄中心转载](https://ageing.tongji.edu.cn/info/1047/2492.htm)]
+1. **叶子**, 黄立鹤. 自然语言处理助力老年认知健康智能筛查. 《语言文字周报》2024-11-10，第2版. [[PDF](https://yihtsy.github.io/files/叶子-黄立鹤-2024-自然语言处理助力老年认知健康智能筛查.pdf)] [[同济老龄中心转载](https://ageing.tongji.edu.cn/info/1047/2492.htm)]
 
 2. **叶子**. 语言学专业，是时候告别“前牛顿时代”了. 《文汇报》2017-12-08. [[文汇网](https://dzb.whb.cn/html/2017-12/08/content_618669.html)]
 
