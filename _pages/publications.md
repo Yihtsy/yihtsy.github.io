@@ -67,7 +67,7 @@ author_profile: true
 5. Wang, Xuelin, **Yih, Tsy**\*. (2022). Understanding development and proficiency in writing: Quantitative corpus linguistic approaches. *Journal of Second Language Writing*, 56, 100875. [https://doi.org/10.1016/j.jslw.2022.100875](https://doi.org/10.1016/j.jslw.2022.100875) (**SSCI Q1**, 通讯作者)
 
 6. **Yih, Tsy**. (2021). Frequency in language: Memory, attention and learning. *Review of Cognitive Linguistics*, 19(2), 596–601. [https://
-doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) (**SSCI**)
+doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) [[PDF](https://yihtsy.github.io/files/yih-2021-review-divjak-2019.pdf)] (**SSCI**)
 
 7. **Yih, Tsy**. (2021). Minimalist parsing. *Natural Language Engineering*, 27(4), 507–510. [https://doi.org/10.1017/S1351324921000140](https://doi.org/10.1017/S1351324921000140) (**SSCI, SCIE, A&HCI**)
 
