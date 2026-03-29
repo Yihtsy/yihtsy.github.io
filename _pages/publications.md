@@ -16,7 +16,7 @@ author_profile: true
 
 1. **Yih, Tsy**, Yang, Hao, Huang, Lihe\*, Yao, Quan. (2025). Identifying syntactic biomarkers of cognitive impairment in older adults by applying machine learning approaches across multiple speech tasks. *Aphasiology*. [https://doi.org/10.1080/02687038.2025.2511217](https://doi.org/10.1080/02687038.2025.2511217) (**SSCI Q1**)
 
-1. **Yih, Tsy**, Liu, Haitao\*. (2025). Decomposing dependency analysis: Revisiting the relation between annotation scheme and structure-based textual measures. *Digital Scholarship in the Humanities*, 40(1), 400–418. [https://doi.org/10.1093/llc/fqaf003](https://doi.org/10.1093/llc/fqaf003) (**SSCI**)
+1. **Yih, Tsy**, Liu, Haitao\*. (2025). Decomposing dependency analysis: Revisiting the relation between annotation scheme and structure-based textual measures. *Digital Scholarship in the Humanities*, 40(1), 400–418. [https://doi.org/10.1093/llc/fqaf003](https://doi.org/10.1093/llc/fqaf003) [[PDF](https://yihtsy.github.io/files/yih-liu-2025-decomposing.pdf)] (**SSCI**)
 
 1. **叶子**. (2024). 试论语义不变型词性转换. 《常熟理工学院学报》第6期, 42–52. [https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010](https://doi.org/10.16101/j.cnki.cn32-1749/z.2024.06.010) (2024年度优秀论文)
 
