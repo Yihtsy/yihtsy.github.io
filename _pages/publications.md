@@ -8,7 +8,7 @@ author_profile: true
 
 1. Yih, Tsy, Ding, Dian, Che, Yiran, Huang, Lihe\*. (accepted). Which mean dependency distance measure best reflects the cognitive abilities? Evidence from oral production of older adults with varying cognitive levels. *Linguistics Vanguard*. (**SSCI**)
 
-1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. 《辞书研究》, 已录用. (CSSCI扩展版)
+1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. (2026). 《辞书研究》第2期, 1-13. [[PDF](https://yihtsy.github.io/files/叶子-等-2026-异形词.pdf)] (CSSCI扩展版)
  
 1. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2025.pdf)] (ESCI) 
 
