@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Linguistics (Quantitative Linguistics & Dependency Linguistics), Zhejiang University, 2019-2023
   * Supervisor: Prof. Haitao Liu
-* M.A. in Linguistics (Linguistic Typology), Shanghai International Studies University, 2016-2019
+* M.A. in Linguistics (Linguistic Typology & Formal Semantics), Shanghai International Studies University, 2016-2019
 * Minor in French Language, Tongji University, 2014-2015
 * Exchange, National University of Singapore, 2013-2014
 * B.E. in Civil Engineering, Tongji University, 2011-2016
@@ -25,7 +25,7 @@ Work experience
   * Duties includes: Quantitative Textual Measure Design, Identification of Linguistic Biomarkers of Cognitive Impairment
   * Supervisor: Prof. Lihe Huang
 
-* May-July 2023: Research Assistant
+* May-July 2023: Visiting Scholar
   * Westlake University
   * Duties included: Machine-Human Languages Discrimination
   * Supervisor: Prof. Yue Zhang
