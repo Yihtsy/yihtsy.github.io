@@ -60,3 +60,8 @@ Teaching
 Service and leadership
 ======
 * Anonymous Reviewer for Journal of World Linguistics, Clinical Linguistics and Phonetics, Digital Scholarship in the Humanities, Chinese Lexical Semantics Workshop
+
+Academic Innovations
+======
+* 提出logistic scaler，可将一组数据根据预先标好的二分类类别，通过逻辑斯蒂函数拟合进行缩放，将数值压缩至与0-1之间，可用于后续机器学习证据给数据分类。适用于原本就存在一定程度区分性的数据。
+  （该类`LogisticScaler`发布于Python包liuer.sklearn.preprocessing中，可直接调用）
