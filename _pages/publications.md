@@ -6,7 +6,7 @@ author_profile: true
 
 ## Journal Articles
 
-1. Yang, Y., Huang, L., Yih, T., & Zhou, D. (2026). Examining influencing factors in measuring mean length of utterance: A case study of chinese-speaking older adults with cognitive decline. _Language and Health_, _4_(1), 100085. [https://doi.org/10.1016/j.laheal.2026.100085](https://doi.org/10.1016/j.laheal.2026.100085)
+1. Yang, Yiran, Huang, Lihe, **Yih, Tsy**\*, & Zhou, Deyu. (2026). Examining influencing factors in measuring mean length of utterance: A case study of chinese-speaking older adults with cognitive decline. _Language and Health_, _4_(1), 100085. [https://doi.org/10.1016/j.laheal.2026.100085](https://doi.org/10.1016/j.laheal.2026.100085)
 
 1. Yih, Tsy, Ding, Dian, Che, Yiran, Huang, Lihe\*. (2026). Which dependency distance measure best reflects the cognitive abilities? Evidence from oral production of older adults with varying cognitive levels. *Linguistics Vanguard*. [https://doi.org/10.1515/lingvan-2025-0196](https://doi.org/10.1515/lingvan-2025-0196) (**SSCI**)
 
