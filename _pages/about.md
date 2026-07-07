@@ -61,7 +61,15 @@ He has also participated in:
 - Tier B, Nationally Funded Postdoctoral Program  
 - Shanghai Super Postdoctoral Fellowship  
 - National Scholarship for Graduate Students  
-- Excellent Doctoral Dissertation Award  
+- Excellent Doctoral Dissertation Award
+
+---
+
+## Academic Services
+
+### Peer Reviewer
+
+Reviewer for *Cortex*, *Aphasiology*, *Clinical Linguistics & Phonetics*, *Digital Scholarship in the Humanities*, *Journal of World Languages*, and the *Chinese Lexical Semantics Workshop* (CLSW).
 
 <!--
 
