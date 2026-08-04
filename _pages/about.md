@@ -9,15 +9,16 @@ redirect_from:
 
 ## About Me
 
-**(Theo) Tsy Yih (叶子 / Zi Ye)** holds a Ph.D. in Linguistics from Zhejiang University and is currently a postdoctoral researcher at the [Center for Aging, Language, and Care Studies](https://ageing.tongji.edu.cn/), [School of Foreign Languages](https://sfs.tongji.edu.cn/), Tongji University.
+**(Theo) Tsy Yih (叶子 / Zi Ye)** holds a Ph.D. in Linguistics from Zhejiang University and is currently a postdoctoral researcher at the [Center for Aging, Language, and Care Studies](https://ageing.tongji.edu.cn/), [School of Foreign Languages](https://sfs.tongji.edu.cn/), Tongji University. He is both a Mandarin- and Shanghai Wu speaker. When citing his work, please refer to him as Ts. Yih.
 
-His research interests lie in **quantitative linguistics, gerontolinguistics, and natural language processing**, with a particular focus on the **measurement problem in linguistics** and the development of **textual quantitative measures and linguistic biomarkers** for cognitive impairment screening.
+His research interests lie in **quantitative linguistics, dependency grammar, clinical & gerontolinguistics, and natural language processing**, with a particular focus on the **measurement problem in linguistics and developing textual quantitative measures**. Currently he is working on a project in identifying linguistic biomarkers for cognitive impairment screening.
 
 ---
 
 ## Research Areas
 
 - Quantitative Linguistics
+- Dependency Grammar
 - Natural Language Processing
 - Gerontolinguistics, Clinical Linguistics and Speech-Language Pathology  
   - Linguistic Biomarkers for Cognitive Impairment  
@@ -71,8 +72,6 @@ He has also participated in:
 
 Reviewer for *Cortex*, *Aphasiology*, *Clinical Linguistics & Phonetics*, *Digital Scholarship in the Humanities*, *Journal of World Languages*, and the *Chinese Lexical Semantics Workshop* (CLSW).
 
-<!--
-
 ---
 
 ## Personal Interests
@@ -82,4 +81,3 @@ I am a big fan of **JJ Lin (Wayne) 林俊杰** and **Chengdu AG (All Gamers) 成
 The package **Asymgram (AG)** that I designed was named after and in honor of Chengdu AG.
 
 The whole world is a giant AG.
--->
