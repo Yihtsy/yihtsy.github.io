@@ -6,19 +6,19 @@ author_profile: true
 
 ## Journal Articles
 
-1. Yang, Tongfu, Huang, Lihe, **Yih, Tsy**. (2026). Effects of cognitive status on disfluency: a cross-linguistic study of chinese- and english-speaking older adults. *Clinical Linguistics & Phonetics*. 1-19. [https://doi.org/10.1080/02699206.2026.2704606](https://doi.org/10.1080/02699206.2026.2704606) [[PDF](https://yihtsy.github.io/files/yang-etal-2026-effects.pdf)] (**SSCI**)
+1. Yang, Tongfu, Huang, Lihe, **Yih, Tsy**. (2026). Effects of cognitive status on disfluency: a cross-linguistic study of chinese- and english-speaking older adults. *Clinical Linguistics & Phonetics*. 1-19. [https://doi.org/10.1080/02699206.2026.2704606](https://doi.org/10.1080/02699206.2026.2704606) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2026-effects.pdf)] (**SSCI**)
 
-1. Yang, Yiran, Huang, Lihe, **Yih, Tsy**\*, & Zhou, Deyu. (2026). Examining influencing factors in measuring mean length of utterance: A case study of chinese-speaking older adults with cognitive decline. _Language and Health_, _4_(1), 100085. [https://doi.org/10.1016/j.laheal.2026.100085](https://doi.org/10.1016/j.laheal.2026.100085) [[PDF](https://yihtsy.github.io/files/yang-etal-2026-examining.pdf)]
+1. Yang, Yiran, Huang, Lihe, **Yih, Tsy**\*, & Zhou, Deyu. (2026). Examining influencing factors in measuring mean length of utterance: A case study of chinese-speaking older adults with cognitive decline. _Language and Health_, _4_(1), 100085. [https://doi.org/10.1016/j.laheal.2026.100085](https://doi.org/10.1016/j.laheal.2026.100085) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-zhou-2026-examining.pdf)]
 
 1. **Yih, Tsy**, Ding, Dian, Che, Yiran, Huang, Lihe\*. (2026). Which dependency distance measure best reflects the cognitive abilities? Evidence from oral production of older adults with varying cognitive levels. *Linguistics Vanguard*. [https://doi.org/10.1515/lingvan-2025-0196](https://doi.org/10.1515/lingvan-2025-0196) (**SSCI**)
 
-1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. (2026). 《辞书研究》第2期, 1-13. [[PDF](https://yihtsy.github.io/files/叶子-等-2026-异形词.pdf)] (CSSCI扩展版)
+1. **叶子**, 赵耀, 刘海涛. 异形词规范效力、语体影响与混用原因探析. (2026). 《辞书研究》第2期, 1-13. [[PDF](https://yihtsy.github.io/files/叶子-赵-刘-2026-异形词.pdf)] (CSSCI扩展版)
  
-1. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2025.pdf)] (ESCI) 
+1. Yang, Tongfu, Huang, Lihe, & **Yih, Tsy**\*. (2025). Word-Frequency Distributions in Chinese- and English- Speaking Older Adults: An Analysis across Languages and Cognitive Statuses. *Glottometrics*, 59, 24–43. [https://doi.org/10.53482/2025_59_426](https://doi.org/10.53482/2025_59_426) [[PDF](https://yihtsy.github.io/files/yang-huang-yih-2025-wordfrequency.pdf)] (ESCI) 
 
-1. **Yih, Tsy**, Yang, Yiran, Yang, Mu, Liu, Haitao, Huang, Lihe\*. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. *Clinical Linguistics & Phonetics*, 40(6), 517–543. [https://doi.org/10.1080/02699206.2025.2571660](https://doi.org/10.1080/02699206.2025.2571660) (**SSCI**) [[PDF](https://yihtsy.github.io/files/yih-etal-2026-identifying.pdf)] [[微信公众号报道1](https://mp.weixin.qq.com/s?__biz=MzI3OTY4MTE2Mw==&mid=2247486278&idx=1&sn=462684ac22c1aa63ea7ee7f9b03bc632&chksm=ea544bbe8ee1a7f74cf592837f8258e96e98e2ec72b301a30293c91016248eb0afcd040861e2&mpshare=1&scene=1&srcid=0310Mhb8KSEy6VZWuuZsBvuS&sharer_shareinfo=fc093cacbac0fefeb3eb23f6d187a015&sharer_shareinfo_first=fc093cacbac0fefeb3eb23f6d187a015#rd)] [[微信公众号报道2](https://mp.weixin.qq.com/s?__biz=MzU4NDQ1NDgwMA==&mid=2247498488&idx=1&sn=9ba0bed9860ee43bed4cb754962ff693&chksm=fc81b4a551d93a7f789a56108e0127cc336a4976a04d3c742cd5ce7ddc2b26ed1bdedfd56a1c&mpshare=1&scene=1&srcid=0310jUZ4CihrHLiZIBhTksiB&sharer_shareinfo=e73656967965ff8e2744db916990df61&sharer_shareinfo_first=e73656967965ff8e2744db916990df61#rd)]
+1. **Yih, Tsy**, Yang, Yiran, Yang, Mu, Liu, Haitao, Huang, Lihe\*. (2025). Identifying novel linguistic biomarkers of mild cognitive impairment in Mandarin-speaking older adults: A quantitative syntactic approach. *Clinical Linguistics & Phonetics*, 40(6), 517–543. [https://doi.org/10.1080/02699206.2025.2571660](https://doi.org/10.1080/02699206.2025.2571660) (**SSCI**) [[PDF](https://yihtsy.github.io/files/yih-etal-2025-identifying.pdf)] [[微信公众号报道1](https://mp.weixin.qq.com/s?__biz=MzI3OTY4MTE2Mw==&mid=2247486278&idx=1&sn=462684ac22c1aa63ea7ee7f9b03bc632&chksm=ea544bbe8ee1a7f74cf592837f8258e96e98e2ec72b301a30293c91016248eb0afcd040861e2&mpshare=1&scene=1&srcid=0310Mhb8KSEy6VZWuuZsBvuS&sharer_shareinfo=fc093cacbac0fefeb3eb23f6d187a015&sharer_shareinfo_first=fc093cacbac0fefeb3eb23f6d187a015#rd)] [[微信公众号报道2](https://mp.weixin.qq.com/s?__biz=MzU4NDQ1NDgwMA==&mid=2247498488&idx=1&sn=9ba0bed9860ee43bed4cb754962ff693&chksm=fc81b4a551d93a7f789a56108e0127cc336a4976a04d3c742cd5ce7ddc2b26ed1bdedfd56a1c&mpshare=1&scene=1&srcid=0310jUZ4CihrHLiZIBhTksiB&sharer_shareinfo=e73656967965ff8e2744db916990df61&sharer_shareinfo_first=e73656967965ff8e2744db916990df61#rd)]
 
-1. **Yih, Tsy**, Yang, Hao, Huang, Lihe\*, Yao, Quan. (2025). Identifying syntactic biomarkers of cognitive impairment in older adults by applying machine learning approaches across multiple speech tasks. *Aphasiology*. [https://doi.org/10.1080/02687038.2025.2511217](https://doi.org/10.1080/02687038.2025.2511217) (**SSCI Q1**) [[PDF](https://yihtsy.github.io/files/yih-etal-2026-identifyinga.pdf)]
+1. **Yih, Tsy**, Yang, Hao, Huang, Lihe\*, Yao, Quan. (2026). Identifying syntactic biomarkers of cognitive impairment in older adults by applying machine learning approaches across multiple speech tasks. *Aphasiology*, 40(8), 1509–1538. [https://doi.org/10.1080/02687038.2025.2511217](https://doi.org/10.1080/02687038.2025.2511217) (**SSCI Q1**) [[PDF](https://yihtsy.github.io/files/yih-yang-huang-yao-2026-identifying.pdf)]
 
 1. **Yih, Tsy**, Liu, Haitao\*. (2025). Decomposing dependency analysis: Revisiting the relation between annotation scheme and structure-based textual measures. *Digital Scholarship in the Humanities*, 40(1), 400–418. [https://doi.org/10.1093/llc/fqaf003](https://doi.org/10.1093/llc/fqaf003) [[PDF](https://yihtsy.github.io/files/yih-liu-2025-decomposing.pdf)] (**SSCI**)
 
@@ -71,7 +71,7 @@ author_profile: true
 5. Wang, Xuelin, **Yih, Tsy**\*. (2022). Understanding development and proficiency in writing: Quantitative corpus linguistic approaches. *Journal of Second Language Writing*, 56, 100875. [https://doi.org/10.1016/j.jslw.2022.100875](https://doi.org/10.1016/j.jslw.2022.100875) (**SSCI Q1**, 通讯作者)
 
 6. **Yih, Tsy**. (2021). Frequency in language: Memory, attention and learning. *Review of Cognitive Linguistics*, 19(2), 596–601. [https://
-doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) [[PDF](https://yihtsy.github.io/files/yih-2021-review-divjak-2019.pdf)] (**SSCI**)
+doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) [[PDF](https://yihtsy.github.io/files/yih-2021-frequency.pdf)] (**SSCI**)
 
 7. **Yih, Tsy**. (2021). Minimalist parsing. *Natural Language Engineering*, 27(4), 507–510. [https://doi.org/10.1017/S1351324921000140](https://doi.org/10.1017/S1351324921000140) (**SSCI, SCIE, A&HCI**)
 
@@ -83,7 +83,7 @@ doi.org/10.1075/rcl.00097.yih](https://doi.org/10.1075/rcl.00097.yih) [[PDF](htt
 
 ## Newspaper Articles
 
-1. **叶子**, 黄立鹤. 自然语言处理助力老年认知健康智能筛查. 《语言文字周报》2024-11-10，第2版. [[PDF](https://yihtsy.github.io/files/叶子-黄立鹤-2024-自然语言处理助力老年认知健康智能筛查.pdf)] [[同济老龄中心转载](https://ageing.tongji.edu.cn/info/1047/2492.htm)]
+1. **叶子**, 黄立鹤. 自然语言处理助力老年认知健康智能筛查. 《语言文字周报》2024-11-10，第2版. [[PDF](https://yihtsy.github.io/files/叶子-黄-2024-自然语言处理.pdf)] [[同济老龄中心转载](https://ageing.tongji.edu.cn/info/1047/2492.htm)]
 
 2. **叶子**. 语言学专业，是时候告别“前牛顿时代”了. 《文汇报》2017-12-08. [[文汇网](https://dzb.whb.cn/html/2017-12/08/content_618669.html)]
 
